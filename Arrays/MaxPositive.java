@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     public int maximumCount(int[] nums) {
         int nc = 0;

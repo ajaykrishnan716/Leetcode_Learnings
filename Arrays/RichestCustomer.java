@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int[] rich = new int[accounts.length];

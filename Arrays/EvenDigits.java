@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     public int findNumbers(int[] arr) {
         int count = 0;
